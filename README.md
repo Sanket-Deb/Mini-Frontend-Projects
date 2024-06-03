@@ -1,5 +1,5 @@
 # Mini-Frontend-Projects
-A collection of simple beginner's frontend projects ![Hope you get it](https://drive.google.com/file/d/1jwV_al8okVircXVx1moQ3nlBRwKUoHcY/view?usp=drive_link)
+A collection of simple beginner's frontend projects ![Hope you get it](Its-not-much-but-its-honest-work.png)
 
 ## Projects
 
