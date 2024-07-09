@@ -19,7 +19,7 @@ A collection of simple beginner's frontend projects ![Hope you get it](Its-not-m
 **Live Demo:** [Check the Forecast!](https://sanket-deb.github.io/WeatherApp/)
 
 ### 4. To-Do List Delight
-**Description:** Keep track of your tasks with this delightful to-do list website. With the power of local storage, your tasks will stick around even after you refresh the page. It's like having a personal assistant, minus the annoying reminders. 😉  
+**Description:** Keep track of your tasks with this delightful to-do list website. With the power of local storage, your tasks will stick around even after you refresh the page. It's like having a personal assistant, minus the annoying reminders. Local Storage has been used here. 😉  
 **GitHub Repository:** [To-Do List Delight](https://github.com/Sanket-Deb/To-Do_js)  
 **Live Demo:** [Start Listing!](https://sanket-deb.github.io/To-Do_js/)
 
